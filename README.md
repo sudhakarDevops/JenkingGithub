@@ -1,2 +1,1 @@
-# JenkingGithub
-Java -version
+java -version
